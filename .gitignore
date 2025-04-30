@@ -1,0 +1,6 @@
+# Config e credenziali
+.env
+
+# Python
+__pycache__/
+*.py[cod
