@@ -1,0 +1,9 @@
+pandas
+numpy
+yfinance
+pandas_datareader
+fredapi
+requests
+statsmodels
+scikit-learn
+matplotlib
