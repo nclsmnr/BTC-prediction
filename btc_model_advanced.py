@@ -38,7 +38,7 @@ def make_stationary(series, signif=0.05, max_diff=2):
 # 1.1 API key FRED
 FRED_API_KEY = os.getenv("FRED_API_KEY")
 if not FRED_API_KEY:
-    raise RuntimeError("Definisci la variabile d’ambiente FRED_API_KEY")
+    raise RuntimeError("e112dce38460b509b97db2564f48810c")
 fred = Fred(api_key=FRED_API_KEY)
 
 # 1.2 Prezzo BTC e DXY
